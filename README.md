@@ -1,4 +1,4 @@
-# Hi, I'm Chana Brodt 👩‍💻
+# Hi, I'm Chana Brodt 👋
 
 **2nd-Year Computer Science Student | Aspiring Software Engineer**
 
